@@ -1,7 +1,7 @@
 # Kepler-Orbits
 Study of Kepler orbits using Newton Rhapson method (numerical methods). The script is separetd in differents sections.
 
-Johannes Kepler could determine the orbits of bodies revolving around the Sun. In this program we are gonna be able to compute different and interesting parameters to put on practice the application of this method..
+Johannes Kepler could determine the orbits of bodies revolving around the Sun. In this program we are gonna be able to compute different and interesting parameters to put on practice the application of this method.
 
 ## 1 Computation of the distance to the origin
 
