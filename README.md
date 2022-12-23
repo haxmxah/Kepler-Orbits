@@ -32,7 +32,7 @@ the period of the comet is $T_H= 2526.5$ years.
 Starting with different values of $E_0= 0.4,1.7,2.3,3.6,6.1$
 
 # Compilation and execution of the program
-This program was written in _Fortran_ 77.
+This program was written in _Fortran_ 77 and the graphics were plotted with _Gnuplot_.
 ## Linux and Mac
 ### Compilation
 
