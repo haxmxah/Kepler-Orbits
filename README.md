@@ -19,13 +19,13 @@ $$F(E)=\sin(2E)(1-\epsilon^2 -(cos(E)(e-\epsilon^2)-\epsilon)\sin(E)$$
 
 Where we are able to find the maximum energy and maximum distance.
 
-## 3 abnormal eccentricity
+## 3 Abnormal eccentricity
 
 $$E= \frac{2\pi}{T_H}-\epsilon \sin(E)$$
 
-With $E_0=\pi/6)$ as the initial value, we are able to compute 100 values of the abnormal eccentricity via Newton-Rhapson method in one full orbit of the comet arround the sun.
+With $E_0=\pi/6$ as the initial value, we are able to compute 100 values of the abnormal eccentricity via Newton-Rhapson method in one full orbit of the comet arround the sun.
 
-the period of the comet is $T_H= 2526.5$ years.
+The period of the comet is $T_H= 2526.5$ years.
 
 ## 4 Study of the convergence of Newton-Rhapson method.
 
@@ -45,11 +45,11 @@ gfortran -name_of_the_file.f -o name_of_the_output_file.out
 ```
 
 ## Windows
+### Compilation
 ```
 gfortran -name_of_the_file.f -o name_of_the_output_file.exe
 ```
-### Windows
+### Execution
 ```
 ./name_of_the_output_file.exe
-
-
+```
